@@ -1,10 +1,13 @@
 {
   "name": "codehelper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "nodejs based code helper",
   "main": "task.js",
   "scripts": {
     "test": "node task.js"
+  },
+  "bin": {
+    "codeHelper": "./task.js"
   },
   "repository": {
     "type": "git",
