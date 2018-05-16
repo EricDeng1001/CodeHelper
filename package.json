@@ -1,0 +1,26 @@
+{
+  "name": "codehelper",
+  "version": "1.0.0",
+  "description": "nodejs based code helper",
+  "main": "task.js",
+  "scripts": {
+    "test": "node task.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GitAntinus/CodeHelper.git"
+  },
+  "keywords": [
+    "code",
+    "helper"
+  ],
+  "author": "Eric Deng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GitAntinus/CodeHelper/issues"
+  },
+  "homepage": "https://github.com/GitAntinus/CodeHelper#readme",
+  "dependencies": {
+    "commander": "^2.15.1"
+  }
+}
