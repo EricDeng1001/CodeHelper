@@ -1,6 +1,6 @@
 {
   "name": "codehelper",
-  "version": "1.0.2",
+  "version": "1.0.21",
   "description": "nodejs based code helper",
   "main": "task.js",
   "scripts": {
